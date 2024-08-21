@@ -10,7 +10,7 @@ fallthrough = false
 
 [[d1_databases]]
 binding = "MY_D1_DATABASE"
-database_id = "4f91519a-af19-4bfa-a266-6bf9dd489414"
+database_id = "8ce17748-3aa7-4027-9887-d2ef6a3013cb"
 database_name = "subs"
 
 [vars]
